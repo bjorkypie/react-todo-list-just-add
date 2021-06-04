@@ -1,4 +1,4 @@
-
+//create todo component
 const Todo = ({ todo }) => {
     return (
         <div>

@@ -1,9 +1,15 @@
+//imports react
 import React from 'react';
+//imports react's document object model
 import ReactDOM from 'react-dom';
+//imports styling
 import './index.css';
+//imports react app
 import App from './App';
+//some kind of testing?
 import reportWebVitals from './reportWebVitals';
 
+//render the app in the DOM
 ReactDOM.render(
   <React.StrictMode>
     <App />
